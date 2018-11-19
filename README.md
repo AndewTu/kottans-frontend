@@ -20,3 +20,13 @@ Learn a lot from articles about HTTP protocol.
 Got deeper knowledge of using git and github
 
 Now i know how to collaborate with other developers
+
+## Intro to HTML and CSS
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_html_css_intro/udacity.png)
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_html_css_intro/Academy_css.png)![](https://github.com/AndewTu/kottans-frontend/blob/master/task_html_css_intro/Academy_html.png)
+
+Already knew basic html & css.
+
+Improved my skills and learned few new things. Especially about specificity calculation in css
