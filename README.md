@@ -30,3 +30,11 @@ Now i know how to collaborate with other developers
 Already knew basic html & css.
 
 Improved my skills and learned few new things. Especially about specificity calculation in css
+
+## Responsive Web Design
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_responsive_web_design/Udacity.png)
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_responsive_web_design/flexboxfroggy.png)
+
+Flexbox Froggy was great! For me, the best way to remember flexbox properties!
