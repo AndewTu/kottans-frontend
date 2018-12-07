@@ -38,3 +38,12 @@ Improved my skills and learned few new things. Especially about specificity calc
 ![](https://github.com/AndewTu/kottans-frontend/blob/master/task_responsive_web_design/flexboxfroggy.png)
 
 Flexbox Froggy was great! For me, the best way to remember flexbox properties!
+
+## JS Basics
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_js_basics/udacity.png)
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_js_basics/freecodecamp.png)
+
+Freecodecamp challenges was hard for me. To solve them, i had to use hints and read a lot of Javascript Docs.
+
