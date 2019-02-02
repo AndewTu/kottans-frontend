@@ -47,3 +47,9 @@ Flexbox Froggy was great! For me, the best way to remember flexbox properties!
 
 Freecodecamp challenges was hard for me. To solve them, i had to use hints and read a lot of Javascript Docs.
 
+## DOM
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_js_dom/freecodecamp.png)
+
+![](https://github.com/AndewTu/kottans-frontend/blob/master/task_js_dom/udacity.png)
+
