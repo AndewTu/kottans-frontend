@@ -53,3 +53,7 @@ Freecodecamp challenges was hard for me. To solve them, i had to use hints and r
 
 ![](https://github.com/AndewTu/kottans-frontend/blob/master/task_js_dom/udacity.png)
 
+## DOM-practice-task
+
+[Demo](https://andewtu.github.io/kottans-frontend/) | [Codebase](https://github.com/AndewTu/frontend-2019-p2p/tree/dom-api-task/submissions/AndewTu/js-dom)
+
